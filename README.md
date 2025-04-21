@@ -123,5 +123,5 @@ También podés modificar:
 
 ## 🧑‍💻 Autor
 
-Hecho con 💻 y 🧠 por [Tu Nombre o Equipo].
-# screenshot_maker
+Fteari
+
