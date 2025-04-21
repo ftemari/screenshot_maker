@@ -39,21 +39,14 @@ Ideal para flujos de diseño o documentación en Figma.
 
 - Python 3.7 o superior
 
-### Instalación de dependencias
-
-```bash
-pip install opencv-python scikit-image
-```
-
----
 
 ## 🚀 Cómo usarlo
 
 ### 1. Clonar el repositorio o copiar los archivos
 
 ```bash
-git clone <repo-url>
-cd <nombre-del-repo>
+git clone https://github.com/ftemari/screenshot_maker.git
+cd screenshot_maker
 ```
 
 ### 2. (Opcional) Crear un entorno virtual
