@@ -1,0 +1,7 @@
+env/*
+screenshots/*
+videos/*
+
+!env/.gitkeep
+!screenshots/.gitkeep
+!videos/.gitkeep
